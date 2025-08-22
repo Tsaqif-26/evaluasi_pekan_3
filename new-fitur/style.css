@@ -113,7 +113,7 @@ body {
 .hero {
     background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
         url('https://via.placeholder.com/1200x400/4A90E2/ffffff?text=Hero+Banner');
-    background-size: cover;
+    background-size:cover;
     background-position: center;
     color: white;
     text-align: center;
